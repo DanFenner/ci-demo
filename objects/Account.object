@@ -328,6 +328,14 @@
         <type>Checkbox</type>
     </fields>
     <fields>
+        <fullName>Dan_demo_to_Jason__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Dan demo to Jason</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>DandbCompanyId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Lookup</type>
