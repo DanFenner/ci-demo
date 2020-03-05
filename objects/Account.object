@@ -223,6 +223,13 @@
         <formFactor>Small</formFactor>
         <type>Default</type>
     </actionOverrides>
+    <compactLayouts>
+        <fullName>demo_compac_layout</fullName>
+        <fields>Name</fields>
+        <fields>AccountNumber</fields>
+        <fields>OwnerId</fields>
+        <label>demo compac layout</label>
+    </compactLayouts>
     <fields>
         <fullName>A_Checkbox__c</fullName>
         <defaultValue>false</defaultValue>
@@ -1026,7 +1033,7 @@
         <fullName>YearStarted</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
-    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayoutAssignment>demo_compac_layout</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
     <searchLayouts>
