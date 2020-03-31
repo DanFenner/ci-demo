@@ -75,6 +75,10 @@
                 <behavior>Edit</behavior>
                 <field>Dan_demo_to_Jason__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>F_checkbox__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
