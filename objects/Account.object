@@ -1053,6 +1053,14 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>dev_checkbox_001__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>dev checkbox 001</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>jed__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>

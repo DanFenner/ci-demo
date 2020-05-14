@@ -262,6 +262,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.dev_checkbox_001__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.jed__c</field>
         <readable>true</readable>
     </fieldPermissions>
