@@ -181,4 +181,9 @@
         <enabled>true</enabled>
         <name>ViewHelpLink</name>
     </userPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.re_sync_checkbox__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
 </Profile>
